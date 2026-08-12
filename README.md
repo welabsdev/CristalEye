@@ -1,5 +1,11 @@
 # CristalEye for Robot
 
+![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Arduino-0078D6.svg)
+![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)
+
+
+
 ### C++ library for animated and expressive robot eyes on graphical displays.
 
 WELABSDEV CristalEye is a lightweight, modern and object-oriented C++ library designed to create animated, expressive and autonomous robot eyes on OLED and graphical displays.
